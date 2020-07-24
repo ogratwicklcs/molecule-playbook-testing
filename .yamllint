@@ -8,7 +8,7 @@ rules:
     level: error
   brackets:
     max-spaces-inside: 1
-    level: error
+    level: error 
   colons:
     max-spaces-after: -1
     level: error
